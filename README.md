@@ -1,7 +1,7 @@
 # 🧠 SIGMARIS × GPT-5 — Reflection / Introspection Dialogue Report
 
 <p align="center">
-  <img src="https://github.com/uthuyomi/sigmaris-reflection-report/image/sigmaris.png" alt="SIGMARIS Reflection Thumbnail" width="720"/>
+  <img src="https://github.com/uthuyomi/sigmaris-reflection-report/blob/main/image/sigmaris.png" alt="SIGMARIS Reflection Thumbnail" width="720"/>
 </p>
 
 This repository contains a structured dialogue log and analysis between  
